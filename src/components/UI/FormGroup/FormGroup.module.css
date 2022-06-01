@@ -1,0 +1,17 @@
+div {
+  margin-bottom: 0.5rem;
+}
+.flexDirectionRow {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.flexDirectionColumn {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  font-weight: bold;
+  margin-right: 1rem;
+}
